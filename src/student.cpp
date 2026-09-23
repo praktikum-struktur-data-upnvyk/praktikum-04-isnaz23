@@ -301,5 +301,5 @@ int main() {
     hapusSeluruhRiwayat(head, tail);
     tutupSemuaTab(tab);
     return 0;
-}
+} 
 #endif
